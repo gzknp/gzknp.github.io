@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
-p {
+p,
+li {
   font-size: 100%;
   text-align: justify;
   font-family: "Montserrat", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
@@ -8,8 +9,16 @@ p {
   letter-spacing: 1%;
 }
 
-h2 {
+h1,
+h2,
+h3,
+h4 {
   font-family: "Roboto Serif", "Lucida Sans Unicode", "Lucida Grande";
+}
+h1 {
+  font-size: 200%;
+}
+h2 {
   font-size: 180%;
 }
 
