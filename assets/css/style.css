@@ -42,6 +42,11 @@ li {
   text-align: justify;
 }
 
+.padding-between-cards {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
 h1,
 h2,
 h3,

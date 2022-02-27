@@ -26,6 +26,11 @@ body {
   padding: 5%;
 }
 
+/* .padding-between-cards {
+  padding-left: 20%;
+  padding-right: 5%;
+} */
+
 .tbd-msg {
   font-size: 300%;
   font-family: "Roboto Serif", sans-serif;
